@@ -1,0 +1,73 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/kostj/Documents/FPGA/sawtooth_gen_fpga/simulation/qsim
+vhard_block
+Z1 !s110 1582771666
+!i10b 1
+!s100 LGFQ6K7FNciL7:a_]lQil3
+I>78LDJEOYV6fzK4[hfi_n0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1582771656
+Z4 8sawtooth_gen_fpga.vo
+Z5 Fsawtooth_gen_fpga.vo
+L0 1144
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1582771665.000000
+Z8 !s107 sawtooth_gen_fpga.vo|
+Z9 !s90 -work|work|sawtooth_gen_fpga.vo|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+vsawtooth_gen
+R1
+!i10b 1
+!s100 zeEFzH52bWlPI0Sg^Z3ie3
+ICdN58g0>PVX?;:E@4hf_j0
+R2
+R0
+R3
+R4
+R5
+L0 31
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vsawtooth_gen_vlg_vec_tst
+R1
+!i10b 1
+!s100 7FRbYCEdoDZWh_L5Y5P?`0
+I?D99QBj[@@F[<YW_:omNJ0
+R2
+R0
+w1582771653
+8Waveform.vwf.vt
+FWaveform.vwf.vt
+L0 29
+R6
+r1
+!s85 0
+31
+!s108 1582771666.000000
+!s107 Waveform.vwf.vt|
+!s90 -work|work|Waveform.vwf.vt|
+!i113 1
+R10
+R11

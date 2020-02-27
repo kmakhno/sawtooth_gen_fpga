@@ -1,0 +1,20 @@
+Analysis & Synthesis Status : Successful - Wed Feb 26 19:19:34 2020
+Quartus Prime Version : 18.0.0 Build 614 04/24/2018 SJ Standard Edition
+Revision Name : sawtooth_gen_fpga
+Top-level Entity Name : sawtooth_gen
+Family : Stratix IV
+Logic utilization : N/A
+    Combinational ALUTs : 15
+    Memory ALUTs : 0
+    Dedicated logic registers : 14
+Total registers : 14
+Total pins : 20
+Total virtual pins : 0
+Total block memory bits : 0
+DSP block 18-bit elements : 0
+Total GXB Receiver Channel PCS : 0
+Total GXB Receiver Channel PMA : 0
+Total GXB Transmitter Channel PCS : 0
+Total GXB Transmitter Channel PMA : 0
+Total PLLs : 1
+Total DLLs : 0
